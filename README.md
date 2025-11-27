@@ -1,21 +1,11 @@
-# CodeAlpha Task 2 – Calculator
+🧮 CodeAlpha Task 2 – Responsive Calculator
 
-A fully responsive, keyboard-friendly calculator built using **HTML**, **CSS**, and **JavaScript** as part of the CodeAlpha Frontend Development Internship.  
-This project focuses on clean UI design, optimized JavaScript logic, and an intuitive user experience.
-
----
-
-## Badges
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-121013?style=for-the-badge&logo=github&logoColor=white)
-![CodeAlpha](https://img.shields.io/badge/CodeAlpha-000000?style=for-the-badge)
+A clean, modern, and fully responsive Calculator Web App built using HTML, CSS, and JavaScript.
+It supports both button clicks and full keyboard input ⌨️, making it smooth and efficient to use!
 
 ---
 
-## Live Demo
+🚀 Live Demo
 
 Access the live deployed calculator here:  
 ▶ **https://dt1111rc.github.io/CodeAlpha_Calculator/**  
@@ -23,20 +13,14 @@ Access the live deployed calculator here:
 
 ---
 
-## Features
+✨ Features :
 
-- Real-time expression and result display  
-- Supports **addition, subtraction, multiplication, division, and percentage**  
-- Smart operator validation  
-- Accurate decimal handling  
-- Continue calculations after result  
-- Backspace and clear functionality  
-- Full keyboard support  
-  - **Enter** → Evaluate  
-  - **Backspace** → Delete  
-  - **Esc** → Clear  
-- Smooth UI animations  
-- Fully responsive layout (mobile + desktop)
+⚡ Real-time expression & result preview
+🔢 Supports decimals, percentages, and chained operations
+🖱️ Clickable UI + complete keyboard support
+📱 Fully responsive design for all screen sizes
+💡 Smart input handling (prevents multiple decimals, invalid operators, etc.)
+🎨 Modern glass-UI theme with subtle animations
 
 ---
 
@@ -50,36 +34,36 @@ Access the live deployed calculator here:
 
 ---
 
-## Project Structure
-
+📂 Project Structure
 ```
-/
-│── index.html       # UI layout
-│── styles.css       # Styling and responsive design
-│── script.js        # Calculator logic
-│── README.md        # Documentation
+📁 Calculator-App
+│── index.html     # Main UI structure
+│── styles.css     # Styling & responsive design
+└── script.js      # Calculator logic & keyboard supporttation
 ```
-
 ---
 
-## How to Run Locally
+🚀 How to Use
 
 1. Clone or download this repository  
 2. Open the project folder  
 3. Run **index.html** in any modern browser  
-4. The calculator will work instantly — no installation required
+4. The calculator will work instantly — no installation required😄
 
 ---
 
-## Screenshot
-
-<p align="center">
-  <img src="images/screenshot.png" width="420px" alt="Calculator Screenshot">
-</p>
-
-*(Create an `images/` folder and add your screenshot as `screenshot.png`)*
+⌨️ Keyboard Shortcuts
+| Key       | Action                |
+| --------- | --------------------- |
+| 0–9       | Enter numbers         |
+| + - * /   | Operators             |
+| .         | Decimal point         |
+| Enter / = | Evaluate expression   |
+| Backspace | Delete last character |
+| Esc       | Clear all             |
 
 ---
+📷 Screenshots
 
 ## Learning Outcomes
 
@@ -94,16 +78,16 @@ This project strengthened my understanding of:
 
 ---
 
-## Internship Details
+📜 Internship Details
 
 This project was created as part of the  
 **CodeAlpha Frontend Development Internship – Task 2**.
 
 ---
 
-## Author
+👨‍💻 Author
 
-**DEBARGHYA CHOWDHURY**  
+**DEBARGHYA CHOWDHURY | Final Year CSBS Student | IEM KOLKATA**  
 GitHub: https://github.com/dt1111rc
 
 
