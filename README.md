@@ -70,8 +70,6 @@ Access the live deployed calculator here:
 ### Performing a Calculation  
 ![Calculation](./screenshots/pic_2.png)
 
-### Developer Tools  
-![Dev Tools](./screenshots/pic_3.png)
 ## Learning Outcomes
 
 This project strengthened my understanding of:
